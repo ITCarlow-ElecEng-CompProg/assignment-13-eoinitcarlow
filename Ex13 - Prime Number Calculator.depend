@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512571016 source:d:\com prog 2\exercises\ex13 - prime number calculator\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+

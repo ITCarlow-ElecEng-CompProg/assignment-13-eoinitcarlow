@@ -1,0 +1,13 @@
+Check if a Number is Prime
+
+
+
+2 is a prime number.
+
+3 is a prime number.
+
+5 is a prime number.
+
+7 is a prime number.
+
+11 is a prime number.
